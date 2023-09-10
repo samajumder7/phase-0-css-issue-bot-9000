@@ -1,5 +1,6 @@
 body {
-  background-color: pink;
+  /*background-color: pink;*/
+  background: pink;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h2 {
   font-size: 12px;
 }
 
-ul#tasks .completed {
-  background-color: #ccc;
+#tasks .completed {
+  background: #ccc;
   text-decoration: underline;
 }
